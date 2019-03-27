@@ -4,7 +4,6 @@
 
 <ol>
 <li>
-<strong>Индивидуально</strong>
 
 <br/>
 
